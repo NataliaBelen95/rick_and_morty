@@ -1,0 +1,46 @@
+*{
+  margin:0 ;
+  box-sizing: content-box;
+}
+
+.searchBox{
+  padding: 5px;
+ 
+}
+
+.searchInput{
+
+  transition: 0.5s;
+  width: 5rem;
+  background-color: rgb(2, 248, 43);
+  border-radius: 2rem;
+
+}
+
+.searchInput:hover {
+  background-color: rgb(2, 248, 43);
+  border-radius: 2rem;
+  width: 5rem;
+
+
+
+}
+
+
+.searchButton {
+
+  background-color: black;
+  color: antiquewhite;
+  border-radius: 2rem;
+
+  transition: 0.5s;
+}
+
+
+
+.searchButton:hover   {
+ cursor: pointer;
+ background-color: black;
+ color:rgb(2, 248, 43);
+}
+

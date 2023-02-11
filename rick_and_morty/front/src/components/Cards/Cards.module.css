@@ -1,0 +1,11 @@
+.divP{
+    display: flex;
+    margin: 2rem;
+    width: 90vw;
+    height: 90vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 7rem;
+}
+

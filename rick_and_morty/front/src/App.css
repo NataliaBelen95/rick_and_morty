@@ -1,0 +1,12 @@
+body{
+   background-image: url(./assets/background2.jpg);
+   /* background-repeat: repeat-y; */
+
+  
+   background-attachment: fixed;
+    background-position: center;
+}
+
+
+
+/*  */
